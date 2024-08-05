@@ -1,1 +1,1 @@
-Please run the scripts Fig_2_3, Fig4 and Fig5 sequentially to read the respective data and generate plots
+Please run the scripts Fig_2_3, Fig4 and Fig5 sequentially to read the respective data and generate plots. Figures.pptx contains the compiled figures
